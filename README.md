@@ -44,7 +44,7 @@ Es el trabajo final donde se incluye todo el desarrollo
 Este repositorio incluye ramas donde estan los codigos usados y los datos 
 
 
-📌 Resultados principales
+#📌 Resultados principales
 
 Sin homicidios se observa una ganancia aproximada de:
 
@@ -52,7 +52,7 @@ Sin homicidios se observa una ganancia aproximada de:
 
 +0.17 años para mujeres
 
-✉️ Contacto
+#✉️ Contacto
 
 Sebastián Garcés
 Universidad Nacional Autónoma de México
