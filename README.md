@@ -10,6 +10,7 @@ El objetivo general es estimar tablas de vida abreviadas y de decremento múltip
 
 Este análisis se realizó para población masculina y femenina.
 
+
 📊 Gráficas incluidas
 
 Se generaron visualizaciones para:
@@ -28,13 +29,11 @@ Todas las gráficas fueron generadas con ggplot2.
 
 El archivo:
 
-documentos/Formulas_Tabla_Vida.qmd
+Funciones.pdf 
 
 contiene todas las ecuaciones en LaTeX y una descripción formal de la metodología.
 
-Puede renderizarse a PDF ejecutando:
 
-quarto render documentos/Formulas_Tabla_Vida.qmd
 📌 Resultados principales
 
 Esperanza de vida al nacer estimada bajo dos escenarios:
