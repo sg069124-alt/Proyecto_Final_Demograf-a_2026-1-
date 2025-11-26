@@ -36,13 +36,7 @@ contiene todas las ecuaciones en LaTeX y una descripción formal de la metodolog
 
 📌 Resultados principales
 
-Esperanza de vida al nacer estimada bajo dos escenarios:
-
-Escenario	Hombres	Mujeres
-Sin homicidios	74.49	79.28
-Con homicidios	73.46	79.11
-
-Se observa una ganancia aproximada de:
+Sin homicidios se observa una ganancia aproximada de:
 
 +1.03 años para hombres
 
